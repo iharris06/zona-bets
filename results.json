@@ -1,0 +1,2841 @@
+{"status": 200,
+    "time": "2021-12-23T17: 14: 51.781Z",
+    "games": 47,
+    "skip": 0,
+    "results": [
+        {
+            "schedule": {
+                "date": "2022-03-05T00: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Houston Rockets @ Indiana Pacers",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Houston Rockets",
+                    "location": "Houston",
+                    "mascot": "Rockets",
+                    "abbreviation": "HOU",
+                    "conference": "Western",
+                    "division": "Southwest"
+                },
+                "home": {
+                    "team": "Indiana Pacers",
+                    "location": "Indiana",
+                    "mascot": "Pacers",
+                    "abbreviation": "IND",
+                    "conference": "Eastern",
+                    "division": "Central"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 06.505Z",
+            "gameId": 267946,
+            "venue": {
+                "name": "Bankers Life Fieldhouse",
+                "city": "Indianapolis",
+                "state": "IN",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 8.5,
+                            "home": -8.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 9,
+                            "home": -9,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 305,
+                            "homeOdds": -375
+                        },
+                        "current": {
+                            "awayOdds": 315,
+                            "homeOdds": -398
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 221,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 222.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T12: 36: 16.870Z",
+                    "lastUpdated": "2021-12-23T17: 05: 54.501Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2022-02-26T00: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Atlanta Hawks @ Philadelphia 76ers",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Atlanta Hawks",
+                    "location": "Atlanta",
+                    "mascot": "Hawks",
+                    "abbreviation": "ATL",
+                    "conference": "Eastern",
+                    "division": "Southeast"
+                },
+                "home": {
+                    "team": "Philadelphia 76ers",
+                    "location": "Philadelphia",
+                    "mascot": "76ers",
+                    "abbreviation": "PHI",
+                    "conference": "Eastern",
+                    "division": "Atlantic"
+                }
+            },
+            "lastUpdated": "2022-03-23T17: 14: 05.562Z",
+            "gameId": 267947,
+            "venue": {
+                "name": "Wells Fargo Center",
+                "city": "Philadelphia",
+                "state": "PA",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 9.5,
+                            "home": -9.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 10.5,
+                            "home": -10.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 352,
+                            "homeOdds": -451
+                        },
+                        "current": {
+                            "awayOdds": 447,
+                            "homeOdds": -588
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 214,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 208.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T13: 13: 12.116Z",
+                    "lastUpdated": "2021-12-23T17: 05: 55.116Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T00: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "New Orleans Pelicans @ Orlando Magic",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "New Orleans Pelicans",
+                    "location": "New Orleans",
+                    "mascot": "Pelicans",
+                    "abbreviation": "NOP",
+                    "conference": "Western",
+                    "division": "Southwest"
+                },
+                "home": {
+                    "team": "Orlando Magic",
+                    "location": "Orlando",
+                    "mascot": "Magic",
+                    "abbreviation": "ORL",
+                    "conference": "Eastern",
+                    "division": "Southeast"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 05.990Z",
+            "gameId": 267948,
+            "venue": {
+                "name": "Amway Center",
+                "city": "Orlando",
+                "state": "FL",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -5,
+                            "home": 5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -6,
+                            "home": 6,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -215,
+                            "homeOdds": 185
+                        },
+                        "current": {
+                            "awayOdds": -228,
+                            "homeOdds": 192
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 209,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 209.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T12: 36: 17.192Z",
+                    "lastUpdated": "2021-12-23T17: 05: 54.825Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T00: 30: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Detroit Pistons @ Miami Heat",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Detroit Pistons",
+                    "location": "Detroit",
+                    "mascot": "Pistons",
+                    "abbreviation": "DET",
+                    "conference": "Eastern",
+                    "division": "Central"
+                },
+                "home": {
+                    "team": "Miami Heat",
+                    "location": "Miami",
+                    "mascot": "Heat",
+                    "abbreviation": "MIA",
+                    "conference": "Eastern",
+                    "division": "Southeast"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 07.333Z",
+            "gameId": 267949,
+            "venue": {
+                "name": "FTX Arena",
+                "city": "Miami",
+                "state": "FL",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 10,
+                            "home": -10,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 11.5,
+                            "home": -11.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 405,
+                            "homeOdds": -510
+                        },
+                        "current": {
+                            "awayOdds": 492,
+                            "homeOdds": -653
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 203.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 206,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T12: 36: 17.507Z",
+                    "lastUpdated": "2021-12-23T17: 05: 55.437Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T00: 30: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Washington Wizards @ New York Knicks",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Washington Wizards",
+                    "location": "Washington",
+                    "mascot": "Wizards",
+                    "abbreviation": "WAS",
+                    "conference": "Eastern",
+                    "division": "Southeast"
+                },
+                "home": {
+                    "team": "New York Knicks",
+                    "location": "New York",
+                    "mascot": "Knicks",
+                    "abbreviation": "NYK",
+                    "conference": "Eastern",
+                    "division": "Atlantic"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 06.792Z",
+            "gameId": 267950,
+            "venue": {
+                "name": "Madison Square Garden",
+                "city": "New York",
+                "state": "NY",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -1.5,
+                            "home": 1.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -1,
+                            "home": 1,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -123,
+                            "homeOdds": 103
+                        },
+                        "current": {
+                            "awayOdds": -116,
+                            "homeOdds": -104
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 210.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 211.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T12: 36: 17.814Z",
+                    "lastUpdated": "2021-12-23T17: 05: 55.760Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T01: 30: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Milwaukee Bucks @ Dallas Mavericks",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Milwaukee Bucks",
+                    "location": "Milwaukee",
+                    "mascot": "Bucks",
+                    "abbreviation": "MIL",
+                    "conference": "Eastern",
+                    "division": "Central"
+                },
+                "home": {
+                    "team": "Dallas Mavericks",
+                    "location": "Dallas",
+                    "mascot": "Mavericks",
+                    "abbreviation": "DAL",
+                    "conference": "Western",
+                    "division": "Southwest"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 07.959Z",
+            "gameId": 267951,
+            "venue": {
+                "name": "American Airlines Center",
+                "city": "Dallas",
+                "state": "TX",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -5.5,
+                            "home": 5.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -3.5,
+                            "home": 3.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -214,
+                            "homeOdds": 182
+                        },
+                        "current": {
+                            "awayOdds": -161,
+                            "homeOdds": 141
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 215.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 209,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T13: 13: 13.051Z",
+                    "lastUpdated": "2021-12-23T17: 05: 56.078Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T02: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Oklahoma City Thunder @ Phoenix Suns",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Oklahoma City Thunder",
+                    "location": "Oklahoma City",
+                    "mascot": "Thunder",
+                    "abbreviation": "OKC",
+                    "conference": "Western",
+                    "division": "Northwest"
+                },
+                "home": {
+                    "team": "Phoenix Suns",
+                    "location": "Phoenix",
+                    "mascot": "Suns",
+                    "abbreviation": "PHX",
+                    "conference": "Western",
+                    "division": "Pacific"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 08.709Z",
+            "gameId": 267952,
+            "venue": {
+                "name": "Footprint Center",
+                "city": "Phoenix",
+                "state": "AZ",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 15,
+                            "home": -15,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 15,
+                            "home": -15,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 825,
+                            "homeOdds": -1400
+                        },
+                        "current": {
+                            "awayOdds": 813,
+                            "homeOdds": -1375
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 215,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 214.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T04: 31: 03.462Z",
+                    "lastUpdated": "2021-12-23T17: 05: 57.039Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T02: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Minnesota Timberwolves @ Utah Jazz",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": true,
+                "divisionGame": true
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Minnesota Timberwolves",
+                    "location": "Minnesota",
+                    "mascot": "Timberwolves",
+                    "abbreviation": "MIN",
+                    "conference": "Western",
+                    "division": "Northwest"
+                },
+                "home": {
+                    "team": "Utah Jazz",
+                    "location": "Utah",
+                    "mascot": "Jazz",
+                    "abbreviation": "UTA",
+                    "conference": "Western",
+                    "division": "Northwest"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 08.409Z",
+            "gameId": 267953,
+            "venue": {
+                "name": "Vivint Arena",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 11.5,
+                            "home": -11.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 12,
+                            "home": -12,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 470,
+                            "homeOdds": -610
+                        },
+                        "current": {
+                            "awayOdds": 589,
+                            "homeOdds": -838
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 225,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 227.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T12: 36: 18.418Z",
+                    "lastUpdated": "2021-12-23T17: 05: 56.695Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T02: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Charlotte Hornets @ Denver Nuggets",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Charlotte Hornets",
+                    "location": "Charlotte",
+                    "mascot": "Hornets",
+                    "abbreviation": "CHA",
+                    "conference": "Eastern",
+                    "division": "Southeast"
+                },
+                "home": {
+                    "team": "Denver Nuggets",
+                    "location": "Denver",
+                    "mascot": "Nuggets",
+                    "abbreviation": "DEN",
+                    "conference": "Western",
+                    "division": "Northwest"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 09.130Z",
+            "gameId": 267954,
+            "venue": {
+                "name": "Ball Arena",
+                "city": "Denver",
+                "state": "CO",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 3,
+                            "home": -3,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 2.5,
+                            "home": -2.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 120,
+                            "homeOdds": -140
+                        },
+                        "current": {
+                            "awayOdds": 124,
+                            "homeOdds": -144
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 229.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 230,
+                            "overOdds": -115,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T12: 36: 18.120Z",
+                    "lastUpdated": "2021-12-23T17: 05: 56.397Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T03: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Memphis Grizzlies @ Golden State Warriors",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Memphis Grizzlies",
+                    "location": "Memphis",
+                    "mascot": "Grizzlies",
+                    "abbreviation": "MEM",
+                    "conference": "Western",
+                    "division": "Southwest"
+                },
+                "home": {
+                    "team": "Golden State Warriors",
+                    "location": "Golden State",
+                    "mascot": "Warriors",
+                    "abbreviation": "GSW",
+                    "conference": "Western",
+                    "division": "Pacific"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 09.733Z",
+            "gameId": 267955,
+            "venue": {
+                "name": "Chase Center",
+                "city": "San Francisco",
+                "state": "CA",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 6.5,
+                            "home": -6.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 6,
+                            "home": -6,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 200,
+                            "homeOdds": -240
+                        },
+                        "current": {
+                            "awayOdds": 196,
+                            "homeOdds": -236
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 217,
+                            "overOdds": -105,
+                            "underOdds": -115
+                        },
+                        "current": {
+                            "total": 216,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T04: 31: 03.753Z",
+                    "lastUpdated": "2021-12-23T17: 05: 57.378Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T03: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Brooklyn Nets @ Portland Trail Blazers",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Brooklyn Nets",
+                    "location": "Brooklyn",
+                    "mascot": "Nets",
+                    "abbreviation": "BKN",
+                    "conference": "Eastern",
+                    "division": "Atlantic"
+                },
+                "home": {
+                    "team": "Portland Trail Blazers",
+                    "location": "Portland",
+                    "mascot": "Trail Blazers",
+                    "abbreviation": "POR",
+                    "conference": "Western",
+                    "division": "Northwest"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 09.405Z",
+            "gameId": 267956,
+            "venue": {
+                "name": "Moda Center",
+                "city": "Portland",
+                "state": "OR",
+                "neutralSite": false
+            }
+        },
+        {
+            "schedule": {
+                "date": "2021-12-24T03: 30: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "San Antonio Spurs @ Los Angeles Lakers",
+            "details": {
+                "league": "NBA",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": true,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "San Antonio Spurs",
+                    "location": "San Antonio",
+                    "mascot": "Spurs",
+                    "abbreviation": "SAS",
+                    "conference": "Western",
+                    "division": "Southwest"
+                },
+                "home": {
+                    "team": "Los Angeles Lakers",
+                    "location": "Los Angeles",
+                    "mascot": "Lakers",
+                    "abbreviation": "LAL",
+                    "conference": "Western",
+                    "division": "Pacific"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 10.121Z",
+            "gameId": 267957,
+            "venue": {
+                "name": "Staples Center",
+                "city": "Los Angeles",
+                "state": "CA",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 1.5,
+                            "home": -1.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 1.5,
+                            "home": -1.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "awayOdds": 105,
+                            "homeOdds": -125
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 224,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 223.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-23T12: 36: 19.424Z",
+                    "lastUpdated": "2021-12-23T17: 05: 57.694Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T05: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Vanderbilt @ Hawaii",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "final",
+            "teams": {
+                "away": {
+                    "team": "Vanderbilt",
+                    "location": "Vanderbilt",
+                    "mascot": "Commodores",
+                    "abbreviation": "VAN",
+                    "conference": "SEC"
+                },
+                "home": {
+                    "team": "Hawaii",
+                    "location": "Hawaii",
+                    "mascot": "Rainbow Warriors",
+                    "abbreviation": "HAW",
+                    "conference": "Big West"
+                }
+            },
+            "lastUpdated": "2021-12-23T06: 54: 37.838Z",
+            "gameId": 272372,
+            "venue": {
+                "name": "Stan Sheriff Center",
+                "city": "Honolulu",
+                "state": "HI",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": -5.5,
+                            "home": 5.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -6.5,
+                            "home": 6.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -240,
+                            "homeOdds": 200
+                        },
+                        "current": {
+                            "awayOdds": -261,
+                            "homeOdds": 219
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 134,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 134.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-22T05: 21: 37.126Z",
+                    "lastUpdated": "2021-12-23T05: 26: 42.606Z"
+                }
+            ],
+            "scoreboard": {
+                "score": {
+                    "away": 68,
+                    "home": 54,
+                    "awayPeriods": [
+                        35,
+                        33
+                    ],
+                    "homePeriods": [
+                        24,
+                        30
+                    ]
+                },
+                "currentPeriod": 2,
+                "periodTimeRemaining": "0: 00"
+            }
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T18: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "St. Francis (NY) @ UMass Lowell",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "St. Francis (NY)",
+                    "location": "St. Francis (NY)",
+                    "mascot": "Terriers",
+                    "abbreviation": "SFBK",
+                    "conference": "Northeast"
+                },
+                "home": {
+                    "team": "UMass Lowell",
+                    "location": "UMass Lowell",
+                    "mascot": "River Hawks",
+                    "abbreviation": "UML",
+                    "conference": "America East"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 24.848Z",
+            "gameId": 272282,
+            "venue": {
+                "name": "Costello Athletic Center",
+                "city": "Lowell",
+                "state": "MA",
+                "neutralSite": false
+            }
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T19: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "St. Xavier @ Milwaukee",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "St. Xavier",
+                    "location": "St. Xavier",
+                    "mascot": "Cougars",
+                    "abbreviation": "SXU"
+                },
+                "home": {
+                    "team": "Milwaukee",
+                    "location": "Milwaukee",
+                    "mascot": "Panthers",
+                    "abbreviation": "MILW",
+                    "conference": "Horizon League"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 25.917Z",
+            "gameId": 272228,
+            "venue": {
+                "name": "UW-Milwaukee Panther Arena",
+                "city": "Milwaukee",
+                "state": "WI",
+                "neutralSite": false
+            }
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T19: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Wagner @ Fairfield",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Wagner",
+                    "location": "Wagner",
+                    "mascot": "Seahawks",
+                    "abbreviation": "WAG",
+                    "conference": "Northeast"
+                },
+                "home": {
+                    "team": "Fairfield",
+                    "location": "Fairfield",
+                    "mascot": "Stags",
+                    "abbreviation": "FAIR",
+                    "conference": "Metro Atlantic"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 25.651Z",
+            "gameId": 272270,
+            "venue": {
+                "name": "Webster Bank Arena",
+                "city": "Bridgeport",
+                "state": "CT",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 2.5,
+                            "home": -2.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": -1.5,
+                            "home": 1.5,
+                            "awayOdds": -115,
+                            "homeOdds": -105
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -120,
+                            "homeOdds": -100
+                        },
+                        "current": {
+                            "awayOdds": -125,
+                            "homeOdds": 105
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 132.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 136,
+                            "overOdds": -105,
+                            "underOdds": -115
+                        }
+                    },
+                    "openDate": "2021-12-23T07: 03: 48.398Z",
+                    "lastUpdated": "2021-12-23T17: 05: 05.158Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T19: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Howard @ Yale",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Howard",
+                    "location": "Howard",
+                    "mascot": "Bison",
+                    "abbreviation": "HOW",
+                    "conference": "MEAC"
+                },
+                "home": {
+                    "team": "Yale",
+                    "location": "Yale",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "YALE",
+                    "conference": "Ivy League"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 25.177Z",
+            "gameId": 272320,
+            "venue": {
+                "name": "Payne Whitney Gymnasium",
+                "city": "New Haven",
+                "state": "CT",
+                "neutralSite": false
+            }
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T21: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Coppin State @ George Mason",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Coppin State",
+                    "location": "Coppin State",
+                    "mascot": "Eagles",
+                    "abbreviation": "COPP",
+                    "conference": "MEAC"
+                },
+                "home": {
+                    "team": "George Mason",
+                    "location": "George Mason",
+                    "mascot": "Patriots",
+                    "abbreviation": "GMU",
+                    "conference": "Atlantic 10"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 29.615Z",
+            "gameId": 272259,
+            "venue": {
+                "name": "EagleBank Arena",
+                "city": "Fairfax",
+                "state": "VA",
+                "neutralSite": false
+            }
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T21: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Westmont @ Pepperdine",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Westmont",
+                    "location": "Westmont",
+                    "mascot": "Warriors",
+                    "abbreviation": "WEST"
+                },
+                "home": {
+                    "team": "Pepperdine",
+                    "location": "Pepperdine",
+                    "mascot": "Waves",
+                    "abbreviation": "PEPP",
+                    "conference": "West Coast"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 26.197Z",
+            "gameId": 272295,
+            "venue": {
+                "name": "Firestone Fieldhouse",
+                "city": "Malibu",
+                "state": "CA",
+                "neutralSite": false
+            }
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T21: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Liberty vs Stanford",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Liberty",
+                    "location": "Liberty",
+                    "mascot": "Flames",
+                    "abbreviation": "LIB",
+                    "conference": "Atlantic Sun"
+                },
+                "home": {
+                    "team": "Stanford",
+                    "location": "Stanford",
+                    "mascot": "Cardinal",
+                    "abbreviation": "STAN",
+                    "conference": "Pac 12"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 26.751Z",
+            "gameId": 278181,
+            "venue": {
+                "name": "Stan Sheriff Center",
+                "city": "Honolulu",
+                "state": "HI",
+                "neutralSite": true
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 2.5,
+                            "home": -2.5,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 2,
+                            "home": -2,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": 125,
+                            "homeOdds": -145
+                        },
+                        "current": {
+                            "awayOdds": 111,
+                            "homeOdds": -131
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 130.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 127,
+                            "overOdds": -105,
+                            "underOdds": -115
+                        }
+                    },
+                    "openDate": "2021-12-23T12: 51: 25.416Z",
+                    "lastUpdated": "2021-12-23T17: 13: 08.517Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T23: 00: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Fresno State @ Weber State",
+            "details": {
+                "league": "NCAAB",
+                "seasonType": "regular",
+                "season": 2021,
+                "conferenceGame": false,
+                "divisionGame": false
+            },
+            "status": "scheduled",
+            "teams": {
+                "away": {
+                    "team": "Fresno State",
+                    "location": "Fresno State",
+                    "mascot": "Bulldogs",
+                    "abbreviation": "FRES",
+                    "conference": "Mountain West"
+                },
+                "home": {
+                    "team": "Weber State",
+                    "location": "Weber State",
+                    "mascot": "Wildcats",
+                    "abbreviation": "WEB",
+                    "conference": "Big Sky"
+                }
+            },
+            "lastUpdated": "2021-12-23T17: 14: 27.063Z",
+            "gameId": 272244,
+            "venue": {
+                "name": "Dee Events Center",
+                "city": "Ogden",
+                "state": "UT",
+                "neutralSite": false
+            },
+            "odds": [
+                {
+                    "spread": {
+                        "open": {
+                            "away": 0,
+                            "home": 0,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        },
+                        "current": {
+                            "away": 1,
+                            "home": -1,
+                            "awayOdds": -110,
+                            "homeOdds": -110
+                        }
+                    },
+                    "moneyline": {
+                        "open": {
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        },
+                        "current": {
+                            "awayOdds": -105,
+                            "homeOdds": -115
+                        }
+                    },
+                    "total": {
+                        "open": {
+                            "total": 135.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        },
+                        "current": {
+                            "total": 135.5,
+                            "overOdds": -110,
+                            "underOdds": -110
+                        }
+                    },
+                    "openDate": "2021-12-22T18: 55: 06.509Z",
+                    "lastUpdated": "2021-12-23T17: 13: 08.864Z"
+                }
+            ]
+        },
+        {
+            "schedule": {
+                "date": "2021-12-23T23: 30: 00.000Z",
+                "tbaTime": false
+            },
+            "summary": "Butler @ St. Johns", "details": {"league": "NCAAB", "seasonType": "regular", "season": 2021, "conferenceGame": true, "divisionGame": true
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Butler",
+                "location": "Butler",
+                "mascot": "Bulldogs",
+                "abbreviation": "BUT",
+                "conference": "Big East"
+            },
+            "home": {
+                "team": "St. Johns", "location": "St. Johns",
+                "mascot": "Red Storm",
+                "abbreviation": "SJU",
+                "conference": "Big East"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 27.307Z",
+        "gameId": 272303,
+        "venue": {
+            "name": "Carnesecca Arena",
+            "city": "Queens",
+            "state": "NY",
+            "neutralSite": false
+        },
+        "odds": [
+            {
+                "spread": {
+                    "open": {
+                        "away": 6,
+                        "home": -6,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    },
+                    "current": {
+                        "away": 5.5,
+                        "home": -5.5,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    }
+                },
+                "moneyline": {
+                    "open": {
+                        "awayOdds": 220,
+                        "homeOdds": -260
+                    },
+                    "current": {
+                        "awayOdds": 196,
+                        "homeOdds": -232
+                    }
+                },
+                "total": {
+                    "open": {
+                        "total": 135,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    },
+                    "current": {
+                        "total": 134.5,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    }
+                },
+                "openDate": "2021-12-22T19: 46: 17.107Z",
+                "lastUpdated": "2021-12-23T17: 13: 09.204Z"
+            }
+        ]
+    },
+    {
+        "schedule": {
+            "date": "2021-12-23T23: 30: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Northern Iowa vs Wyoming",
+        "details": {
+            "league": "NCAAB",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Northern Iowa",
+                "location": "Northern Iowa",
+                "mascot": "Panthers",
+                "abbreviation": "UNI",
+                "conference": "Missouri Valley"
+            },
+            "home": {
+                "team": "Wyoming",
+                "location": "Wyoming",
+                "mascot": "Cowboys",
+                "abbreviation": "WYO",
+                "conference": "Mountain West"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 27.563Z",
+        "gameId": 278182,
+        "venue": {
+            "name": "Stan Sheriff Center",
+            "city": "Honolulu",
+            "state": "HI",
+            "neutralSite": true
+        },
+        "odds": [
+            {
+                "spread": {
+                    "open": {
+                        "away": 1,
+                        "home": -1,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    },
+                    "current": {
+                        "away": 2.5,
+                        "home": -2.5,
+                        "awayOdds": -115,
+                        "homeOdds": -105
+                    }
+                },
+                "moneyline": {
+                    "open": {
+                        "awayOdds": -100,
+                        "homeOdds": -120
+                    },
+                    "current": {
+                        "awayOdds": 122,
+                        "homeOdds": -142
+                    }
+                },
+                "total": {
+                    "open": {
+                        "total": 137.5,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    },
+                    "current": {
+                        "total": 135,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    }
+                },
+                "openDate": "2021-12-23T12: 51: 26.410Z",
+                "lastUpdated": "2021-12-23T17: 13: 09.578Z"
+            }
+        ]
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Morgan State @ Wisconsin",
+        "details": {
+            "league": "NCAAB",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Morgan State",
+                "location": "Morgan State",
+                "mascot": "Bears",
+                "abbreviation": "MORG",
+                "conference": "MEAC"
+            },
+            "home": {
+                "team": "Wisconsin",
+                "location": "Wisconsin",
+                "mascot": "Badgers",
+                "abbreviation": "WIS",
+                "conference": "Big Ten"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 29.857Z",
+        "gameId": 272312,
+        "venue": {
+            "name": "Kohl Center",
+            "city": "Madison",
+            "state": "WI",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Alabama A&M @ Georgia Tech",
+        "details": {
+            "league": "NCAAB",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Alabama A&M",
+                "location": "Alabama A&M",
+                "mascot": "Bulldogs",
+                "abbreviation": "AAMU",
+                "conference": "SWAC"
+            },
+            "home": {
+                "team": "Georgia Tech",
+                "location": "Georgia Tech",
+                "mascot": "Yellow Jackets",
+                "abbreviation": "GT",
+                "conference": "ACC"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 27.801Z",
+        "gameId": 272336,
+        "venue": {
+            "name": "McCamish Pavilion",
+            "city": "Atlanta",
+            "state": "GA",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "George Mason @ Wisconsin",
+        "details": {
+            "league": "NCAAB",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "George Mason",
+                "location": "George Mason",
+                "mascot": "Patriots",
+                "abbreviation": "GMU",
+                "conference": "Atlantic 10"
+            },
+            "home": {
+                "team": "Wisconsin",
+                "location": "Wisconsin",
+                "mascot": "Badgers",
+                "abbreviation": "WIS",
+                "conference": "Big Ten"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 28.054Z",
+        "gameId": 278173,
+        "venue": {
+            "name": "Kohl Center",
+            "city": "Madison",
+            "state": "WI",
+            "neutralSite": false
+        },
+        "odds": [
+            {
+                "spread": {
+                    "open": {
+                        "away": 12.5,
+                        "home": -12.5,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    },
+                    "current": {
+                        "away": 11.5,
+                        "home": -11.5,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    }
+                },
+                "moneyline": {
+                    "open": {
+                        "awayOdds": 405,
+                        "homeOdds": -575
+                    },
+                    "current": {
+                        "awayOdds": 450,
+                        "homeOdds": -609
+                    }
+                },
+                "total": {
+                    "open": {
+                        "total": 131,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    },
+                    "current": {
+                        "total": 130,
+                        "overOdds": -105,
+                        "underOdds": -115
+                    }
+                },
+                "openDate": "2021-12-23T12: 34: 15.059Z",
+                "lastUpdated": "2021-12-23T17: 13: 09.961Z"
+            }
+        ]
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T01: 30: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Seton Hall @ DePaul",
+        "details": {
+            "league": "NCAAB",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": true
+        },
+        "status": "final",
+        "teams": {
+            "away": {
+                "team": "Seton Hall",
+                "location": "Seton Hall",
+                "mascot": "Pirates",
+                "abbreviation": "HALL",
+                "conference": "Big East"
+            },
+            "home": {
+                "team": "DePaul",
+                "location": "DePaul",
+                "mascot": "Blue Demons",
+                "abbreviation": "DEP",
+                "conference": "Big East"
+            }
+        },
+        "lastUpdated": "2021-12-21T05: 51: 59.782Z",
+        "gameId": 272348,
+        "venue": {
+            "name": "Wintrust Arena",
+            "city": "Chicago",
+            "state": "IL",
+            "neutralSite": false
+        },
+        "scoreboard": {
+            "score": {
+                "away": 2,
+                "home": 0,
+                "awayPeriods": "none",
+                "homePeriods": "none"
+            },
+            "currentPeriod": 0,
+            "periodTimeRemaining": "0: 00"
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T01: 30: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Central Connecticut @ Rutgers",
+        "details": {
+            "league": "NCAAB",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Central Connecticut",
+                "location": "Central Connecticut",
+                "mascot": "Blue Devils",
+                "abbreviation": "CCSU",
+                "conference": "Northeast"
+            },
+            "home": {
+                "team": "Rutgers",
+                "location": "Rutgers",
+                "mascot": "Scarlet Knights",
+                "abbreviation": "RUTG",
+                "conference": "Big Ten"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 28.297Z",
+        "gameId": 272366,
+        "venue": {
+            "name": "Louis Brown Athletic Center",
+            "city": "Piscataway",
+            "state": "NJ",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T03: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "BYU @ Vanderbilt",
+        "details": {
+            "league": "NCAAB",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "BYU",
+                "location": "BYU",
+                "mascot": "Cougars",
+                "abbreviation": "BYU",
+                "conference": "West Coast"
+            },
+            "home": {
+                "team": "Vanderbilt",
+                "location": "Vanderbilt",
+                "mascot": "Commodores",
+                "abbreviation": "VAN",
+                "conference": "SEC"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 28.825Z",
+        "gameId": 278183,
+        "venue": {
+            "name": "Stan Sheriff Center",
+            "city": "Honolulu",
+            "state": "HI",
+            "neutralSite": false
+        },
+        "odds": [
+            {
+                "spread": {
+                    "open": {
+                        "away": -5.5,
+                        "home": 5.5,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    },
+                    "current": {
+                        "away": -5.5,
+                        "home": 5.5,
+                        "awayOdds": -105,
+                        "homeOdds": -115
+                    }
+                },
+                "moneyline": {
+                    "open": {
+                        "awayOdds": -230,
+                        "homeOdds": 190
+                    },
+                    "current": {
+                        "awayOdds": -230,
+                        "homeOdds": 190
+                    }
+                },
+                "total": {
+                    "open": {
+                        "total": 134.5,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    },
+                    "current": {
+                        "total": 133,
+                        "overOdds": -105,
+                        "underOdds": -115
+                    }
+                },
+                "openDate": "2021-12-23T15: 07: 16.067Z",
+                "lastUpdated": "2021-12-23T17: 05: 07.311Z"
+            }
+        ]
+    },
+    {
+        "schedule": {
+            "date": "2021-12-23T20: 30: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "North Texas vs Miami (OH)",
+        "details": {
+            "league": "NCAAF",
+            "seasonType": "postseason",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "North Texas",
+                "location": "North Texas",
+                "mascot": "Mean Green",
+                "abbreviation": "UNT",
+                "conference": "Conference USA",
+                "division": "West"
+            },
+            "home": {
+                "team": "Miami (OH)",
+                "location": "Miami (OH)",
+                "mascot": "RedHawks",
+                "abbreviation": "MIAO",
+                "conference": "MAC",
+                "division": "East"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 39.124Z",
+        "gameId": 276957,
+        "venue": {
+            "name": "Toyota Stadium",
+            "city": "Frisco",
+            "state": "TX",
+            "neutralSite": true
+        },
+        "odds": [
+            {
+                "spread": {
+                    "open": {
+                        "away": 3.5,
+                        "home": -3.5,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    },
+                    "current": {
+                        "away": 2,
+                        "home": -2,
+                        "awayOdds": -105,
+                        "homeOdds": -115
+                    }
+                },
+                "moneyline": {
+                    "open": {
+                        "awayOdds": 140,
+                        "homeOdds": -160
+                    },
+                    "current": {
+                        "awayOdds": 112,
+                        "homeOdds": -132
+                    }
+                },
+                "total": {
+                    "open": {
+                        "total": 54,
+                        "overOdds": -105,
+                        "underOdds": -115
+                    },
+                    "current": {
+                        "total": 56.5,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    }
+                },
+                "openDate": "2021-12-08T03: 28: 46.889Z",
+                "lastUpdated": "2021-12-23T17: 01: 29.143Z"
+            }
+        ]
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "UCF vs Florida",
+        "details": {
+            "league": "NCAAF",
+            "seasonType": "postseason",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "UCF",
+                "location": "UCF",
+                "mascot": "Knights",
+                "abbreviation": "UCF",
+                "conference": "AAC",
+                "division": "East"
+            },
+            "home": {
+                "team": "Florida",
+                "location": "Florida",
+                "mascot": "Gators",
+                "abbreviation": "FLA",
+                "conference": "SEC",
+                "division": "East"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 39.400Z",
+        "gameId": 276958,
+        "venue": {
+            "name": "Raymond James Stadium",
+            "city": "Tampa",
+            "state": "FL",
+            "neutralSite": true
+        },
+        "odds": [
+            {
+                "spread": {
+                    "open": {
+                        "away": 8,
+                        "home": -8,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    },
+                    "current": {
+                        "away": 7,
+                        "home": -7,
+                        "awayOdds": -115,
+                        "homeOdds": -105
+                    }
+                },
+                "moneyline": {
+                    "open": {
+                        "awayOdds": 248,
+                        "homeOdds": -295
+                    },
+                    "current": {
+                        "awayOdds": 214,
+                        "homeOdds": -254
+                    }
+                },
+                "total": {
+                    "open": {
+                        "total": 56.5,
+                        "overOdds": -115,
+                        "underOdds": -105
+                    },
+                    "current": {
+                        "total": 56,
+                        "overOdds": -115,
+                        "underOdds": -110
+                    }
+                },
+                "openDate": "2021-12-08T03: 28: 47.214Z",
+                "lastUpdated": "2021-12-23T17: 01: 29.468Z"
+            }
+        ]
+    },
+    {
+        "schedule": {
+            "date": "2022-02-28T01: 20: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "San Francisco 49ers @ Tennessee Titans",
+        "details": {
+            "league": "NFL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "San Francisco 49ers",
+                "location": "San Francisco",
+                "mascot": "49ers",
+                "abbreviation": "SF",
+                "conference": "NFC",
+                "division": "West"
+            },
+            "home": {
+                "team": "Tennessee Titans",
+                "location": "Tennessee",
+                "mascot": "Titans",
+                "abbreviation": "TEN",
+                "conference": "AFC",
+                "division": "South"
+            }
+        },
+        "lastUpdated": "2021-12-23T17: 14: 12.558Z",
+        "gameId": 264519,
+        "venue": {
+            "name": "Nissan Stadium",
+            "city": "Nashville",
+            "state": "TN",
+            "neutralSite": false
+        },
+        "odds": [
+            {
+                "spread": {
+                    "open": {
+                        "away": -1,
+                        "home": 1,
+                        "awayOdds": -125,
+                        "homeOdds": 105
+                    },
+                    "current": {
+                        "away": -3,
+                        "home": 3,
+                        "awayOdds": -110,
+                        "homeOdds": -110
+                    }
+                },
+                "moneyline": {
+                    "open": {
+                        "awayOdds": -155,
+                        "homeOdds": 135
+                    },
+                    "current": {
+                        "awayOdds": -160,
+                        "homeOdds": 139
+                    }
+                },
+                "total": {
+                    "open": {
+                        "total": 44,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    },
+                    "current": {
+                        "total": 44.5,
+                        "overOdds": -110,
+                        "underOdds": -110
+                    }
+                },
+                "openDate": "2021-12-19T01: 25: 05.068Z",
+                "lastUpdated": "2021-12-23T17: 05: 32.167Z"
+            }
+        ]
+    },
+    {
+        "schedule": {
+            "date": "2021-12-23T19: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "St. Louis Blues @ Toronto Maple Leafs",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "St. Louis Blues",
+                "location": "St. Louis",
+                "mascot": "Blues",
+                "abbreviation": "STL",
+                "conference": "Western",
+                "division": "Central"
+            },
+            "home": {
+                "team": "Toronto Maple Leafs",
+                "location": "Toronto",
+                "mascot": "Maple Leafs",
+                "abbreviation": "TOR",
+                "conference": "Eastern",
+                "division": "Atlantic"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 14: 58.556Z",
+        "gameId": 277182,
+        "venue": {
+            "name": "Scotiabank Arena",
+            "city": "Toronto",
+            "state": "ON",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2022-03-03T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Colorado Avalanche @ Boston Bruins",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "canceled",
+        "teams": {
+            "away": {
+                "team": "Colorado Avalanche",
+                "location": "Colorado",
+                "mascot": "Avalanche",
+                "abbreviation": "COL",
+                "conference": "Western",
+                "division": "Central"
+            },
+            "home": {
+                "team": "Boston Bruins",
+                "location": "Boston",
+                "mascot": "Bruins",
+                "abbreviation": "BOS",
+                "conference": "Eastern",
+                "division": "Atlantic"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 14: 58.796Z",
+        "gameId": 277185,
+        "venue": {
+            "name": "TD Garden",
+            "city": "Boston",
+            "state": "MA",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2022-03-10T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Carolina Hurricanes @ Ottawa Senators",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Carolina Hurricanes",
+                "location": "Carolina",
+                "mascot": "Hurricanes",
+                "abbreviation": "CAR",
+                "conference": "Eastern",
+                "division": "Metropolitan"
+            },
+            "home": {
+                "team": "Ottawa Senators",
+                "location": "Ottawa",
+                "mascot": "Senators",
+                "abbreviation": "OTT",
+                "conference": "Eastern",
+                "division": "Atlantic"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 14: 59.060Z",
+        "gameId": 277189,
+        "venue": {
+            "name": "Canadian Tire Centre",
+            "city": "Ottawa",
+            "state": "ON",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Nashville Predators vs Florida Panthers",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Nashville Predators",
+                "location": "Nashville",
+                "mascot": "Predators",
+                "abbreviation": "NSH",
+                "conference": "Western",
+                "division": "Central"
+            },
+            "home": {
+                "team": "Florida Panthers",
+                "location": "Florida",
+                "mascot": "Panthers",
+                "abbreviation": "FLA",
+                "conference": "Eastern",
+                "division": "Atlantic"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 14: 59.353Z",
+        "gameId": 277191,
+        "venue": {
+            "name": "FLA Live Arena",
+            "city": "Sunrise",
+            "state": "FL",
+            "neutralSite": true
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Montreal Canadiens @ New Jersey Devils",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Montreal Canadiens",
+                "location": "Montreal",
+                "mascot": "Canadiens",
+                "abbreviation": "MTL",
+                "conference": "Eastern",
+                "division": "Atlantic"
+            },
+            "home": {
+                "team": "New Jersey Devils",
+                "location": "New Jersey",
+                "mascot": "Devils",
+                "abbreviation": "NJD",
+                "conference": "Eastern",
+                "division": "Metropolitan"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 14: 59.610Z",
+        "gameId": 277193,
+        "venue": {
+            "name": "Prudential Center",
+            "city": "Newark",
+            "state": "NJ",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Philadelphia Flyers @ Pittsburgh Penguins",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": true
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Philadelphia Flyers",
+                "location": "Philadelphia",
+                "mascot": "Flyers",
+                "abbreviation": "PHI",
+                "conference": "Eastern",
+                "division": "Metropolitan"
+            },
+            "home": {
+                "team": "Pittsburgh Penguins",
+                "location": "Pittsburgh",
+                "mascot": "Penguins",
+                "abbreviation": "PIT",
+                "conference": "Eastern",
+                "division": "Metropolitan"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 14: 59.840Z",
+        "gameId": 277196,
+        "venue": {
+            "name": "PPG Paints Arena",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Buffalo Sabres @ Columbus Blue Jackets",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Buffalo Sabres",
+                "location": "Buffalo",
+                "mascot": "Sabres",
+                "abbreviation": "BUF",
+                "conference": "Eastern",
+                "division": "Atlantic"
+            },
+            "home": {
+                "team": "Columbus Blue Jackets",
+                "location": "Columbus",
+                "mascot": "Blue Jackets",
+                "abbreviation": "CBJ",
+                "conference": "Eastern",
+                "division": "Metropolitan"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 00.093Z",
+        "gameId": 277199,
+        "venue": {
+            "name": "Nationwide Arena",
+            "city": "Columbus",
+            "state": "OH",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T00: 30: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Washington Capitals vs New York Islanders",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": true
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Washington Capitals",
+                "location": "Washington",
+                "mascot": "Capitals",
+                "abbreviation": "WSH",
+                "conference": "Eastern",
+                "division": "Metropolitan"
+            },
+            "home": {
+                "team": "New York Islanders",
+                "location": "New York",
+                "mascot": "Islanders",
+                "abbreviation": "NYI",
+                "conference": "Eastern",
+                "division": "Metropolitan"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 00.421Z",
+        "gameId": 277201,
+        "venue": {
+            "name": "UBS Arena",
+            "city": "Elmont",
+            "state": "NY",
+            "neutralSite": true
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T01: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Detroit Red Wings @ Minnesota Wild",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Detroit Red Wings",
+                "location": "Detroit",
+                "mascot": "Red Wings",
+                "abbreviation": "DET",
+                "conference": "Eastern",
+                "division": "Atlantic"
+            },
+            "home": {
+                "team": "Minnesota Wild",
+                "location": "Minnesota",
+                "mascot": "Wild",
+                "abbreviation": "MIN",
+                "conference": "Western",
+                "division": "Central"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 00.687Z",
+        "gameId": 277205,
+        "venue": {
+            "name": "Xcel Energy Center",
+            "city": "Saint Paul",
+            "state": "MN",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T01: 30: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Dallas Stars @ Chicago Blackhawks",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": true
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Dallas Stars",
+                "location": "Dallas",
+                "mascot": "Stars",
+                "abbreviation": "DAL",
+                "conference": "Western",
+                "division": "Central"
+            },
+            "home": {
+                "team": "Chicago Blackhawks",
+                "location": "Chicago",
+                "mascot": "Blackhawks",
+                "abbreviation": "CHI",
+                "conference": "Western",
+                "division": "Central"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 00.977Z",
+        "gameId": 277208,
+        "venue": {
+            "name": "United Center",
+            "city": "Chicago",
+            "state": "IL",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T02: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Seattle Kraken @ Calgary Flames",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": true
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Seattle Kraken",
+                "location": "Seattle",
+                "mascot": "Kraken",
+                "abbreviation": "SEA",
+                "conference": "Western",
+                "division": "Pacific"
+            },
+            "home": {
+                "team": "Calgary Flames",
+                "location": "Calgary",
+                "mascot": "Flames",
+                "abbreviation": "CGY",
+                "conference": "Western",
+                "division": "Pacific"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 01.241Z",
+        "gameId": 277211,
+        "venue": {
+            "name": "Scotiabank Saddledome",
+            "city": "Calgary",
+            "state": "AB",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T02: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Tampa Bay Lightning @ Arizona Coyotes",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": false,
+            "divisionGame": false
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Tampa Bay Lightning",
+                "location": "Tampa Bay",
+                "mascot": "Lightning",
+                "abbreviation": "TBL",
+                "conference": "Eastern",
+                "division": "Atlantic"
+            },
+            "home": {
+                "team": "Arizona Coyotes",
+                "location": "Arizona",
+                "mascot": "Coyotes",
+                "abbreviation": "ARI",
+                "conference": "Western",
+                "division": "Pacific"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 01.581Z",
+        "gameId": 277215,
+        "venue": {
+            "name": "Gila River Arena",
+            "city": "Glendale",
+            "state": "AZ",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T03: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Anaheim Ducks @ Vancouver Canucks",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": true
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Anaheim Ducks",
+                "location": "Anaheim",
+                "mascot": "Ducks",
+                "abbreviation": "ANA",
+                "conference": "Western",
+                "division": "Pacific"
+            },
+            "home": {
+                "team": "Vancouver Canucks",
+                "location": "Vancouver",
+                "mascot": "Canucks",
+                "abbreviation": "VAN",
+                "conference": "Western",
+                "division": "Pacific"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 01.963Z",
+        "gameId": 277217,
+        "venue": {
+            "name": "Rogers Arena",
+            "city": "Vancouver",
+            "state": "BC",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T03: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Los Angeles Kings @ Vegas Golden Knights",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": true
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Los Angeles Kings",
+                "location": "Los Angeles",
+                "mascot": "Kings",
+                "abbreviation": "LAK",
+                "conference": "Western",
+                "division": "Pacific"
+            },
+            "home": {
+                "team": "Vegas Golden Knights",
+                "location": "Vegas",
+                "mascot": "Golden Knights",
+                "abbreviation": "VGK",
+                "conference": "Western",
+                "division": "Pacific"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 02.306Z",
+        "gameId": 277220,
+        "venue": {
+            "name": "T-Mobile Arena",
+            "city": "Paradise",
+            "state": "NV",
+            "neutralSite": false
+        }
+    },
+    {
+        "schedule": {
+            "date": "2021-12-24T03: 00: 00.000Z",
+            "tbaTime": false
+        },
+        "summary": "Edmonton Oilers @ San Jose Sharks",
+        "details": {
+            "league": "NHL",
+            "seasonType": "regular",
+            "season": 2021,
+            "conferenceGame": true,
+            "divisionGame": true
+        },
+        "status": "scheduled",
+        "teams": {
+            "away": {
+                "team": "Edmonton Oilers",
+                "location": "Edmonton",
+                "mascot": "Oilers",
+                "abbreviation": "EDM",
+                "conference": "Western",
+                "division": "Pacific"
+            },
+            "home": {
+                "team": "San Jose Sharks",
+                "location": "San Jose",
+                "mascot": "Sharks",
+                "abbreviation": "SJS",
+                "conference": "Western",
+                "division": "Pacific"
+            }
+        },
+        "lastUpdated": "2021-12-23T15: 15: 02.642Z",
+        "gameId": 277222,
+        "venue": {
+            "name": "SAP Center",
+            "city": "San Jose",
+            "state": "CA",
+            "neutralSite": false
+        }
+    }
+]
+}
