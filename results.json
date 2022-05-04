@@ -5,14 +5,14 @@
     "results": [
         {
             "schedule": {
-                "date": "2022-03-05T00: 00: 00.000Z",
+                "date": "2022-05-04T00:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Houston Rockets @ Indiana Pacers",
             "details": {
                 "league": "NBA",
                 "seasonType": "regular",
-                "season": 2021,
+                "season": 2022,
                 "conferenceGame": false,
                 "divisionGame": false
             },
@@ -35,7 +35,7 @@
                     "division": "Central"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 06.505Z",
+            "lastUpdated": "2021-12-23T17:14:06.505Z",
             "gameId": 267946,
             "venue": {
                 "name": "Bankers Life Fieldhouse",
@@ -81,14 +81,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T12: 36: 16.870Z",
-                    "lastUpdated": "2021-12-23T17: 05: 54.501Z"
+                    "openDate": "2021-12-23T12:36:16.870Z",
+                    "lastUpdated": "2021-12-23T17:05:54.501Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2022-02-26T00: 00: 00.000Z",
+                "date": "2022-02-26T00:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Atlanta Hawks @ Philadelphia 76ers",
@@ -118,7 +118,7 @@
                     "division": "Atlantic"
                 }
             },
-            "lastUpdated": "2022-03-23T17: 14: 05.562Z",
+            "lastUpdated": "2022-03-23T17:14:05.562Z",
             "gameId": 267947,
             "venue": {
                 "name": "Wells Fargo Center",
@@ -164,14 +164,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T13: 13: 12.116Z",
-                    "lastUpdated": "2021-12-23T17: 05: 55.116Z"
+                    "openDate": "2021-12-23T13:13:12.116Z",
+                    "lastUpdated": "2021-12-23T17:05:55.116Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T00: 00: 00.000Z",
+                "date": "2021-12-24T00:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "New Orleans Pelicans @ Orlando Magic",
@@ -201,7 +201,7 @@
                     "division": "Southeast"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 05.990Z",
+            "lastUpdated": "2021-12-23T17:14:05.990Z",
             "gameId": 267948,
             "venue": {
                 "name": "Amway Center",
@@ -247,14 +247,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T12: 36: 17.192Z",
-                    "lastUpdated": "2021-12-23T17: 05: 54.825Z"
+                    "openDate": "2021-12-23T12:36:17.192Z",
+                    "lastUpdated": "2021-12-23T17:05:54.825Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T00: 30: 00.000Z",
+                "date": "2021-12-24T00:30:00.000Z",
                 "tbaTime": false
             },
             "summary": "Detroit Pistons @ Miami Heat",
@@ -284,7 +284,7 @@
                     "division": "Southeast"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 07.333Z",
+            "lastUpdated": "2021-12-23T17:14:07.333Z",
             "gameId": 267949,
             "venue": {
                 "name": "FTX Arena",
@@ -330,14 +330,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T12: 36: 17.507Z",
-                    "lastUpdated": "2021-12-23T17: 05: 55.437Z"
+                    "openDate": "2021-12-23T12:36:17.507Z",
+                    "lastUpdated": "2021-12-23T17:05:55.437Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T00: 30: 00.000Z",
+                "date": "2021-12-24T00:30:00.000Z",
                 "tbaTime": false
             },
             "summary": "Washington Wizards @ New York Knicks",
@@ -367,7 +367,7 @@
                     "division": "Atlantic"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 06.792Z",
+            "lastUpdated": "2021-12-23T17:14:06.792Z",
             "gameId": 267950,
             "venue": {
                 "name": "Madison Square Garden",
@@ -413,14 +413,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T12: 36: 17.814Z",
-                    "lastUpdated": "2021-12-23T17: 05: 55.760Z"
+                    "openDate": "2021-12-23T12:36:17.814Z",
+                    "lastUpdated": "2021-12-23T17:05:55.760Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T01: 30: 00.000Z",
+                "date": "2021-12-24T01:30:00.000Z",
                 "tbaTime": false
             },
             "summary": "Milwaukee Bucks @ Dallas Mavericks",
@@ -450,7 +450,7 @@
                     "division": "Southwest"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 07.959Z",
+            "lastUpdated": "2021-12-23T17:14:07.959Z",
             "gameId": 267951,
             "venue": {
                 "name": "American Airlines Center",
@@ -496,14 +496,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T13: 13: 13.051Z",
-                    "lastUpdated": "2021-12-23T17: 05: 56.078Z"
+                    "openDate": "2021-12-23T13:13:13.051Z",
+                    "lastUpdated": "2021-12-23T17:05:56.078Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T02: 00: 00.000Z",
+                "date": "2021-12-24T02:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Oklahoma City Thunder @ Phoenix Suns",
@@ -533,7 +533,7 @@
                     "division": "Pacific"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 08.709Z",
+            "lastUpdated": "2021-12-23T17:14:08.709Z",
             "gameId": 267952,
             "venue": {
                 "name": "Footprint Center",
@@ -579,14 +579,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T04: 31: 03.462Z",
-                    "lastUpdated": "2021-12-23T17: 05: 57.039Z"
+                    "openDate": "2021-12-23T04:31:03.462Z",
+                    "lastUpdated": "2021-12-23T17:05:57.039Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T02: 00: 00.000Z",
+                "date": "2021-12-24T02:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Minnesota Timberwolves @ Utah Jazz",
@@ -662,14 +662,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T12: 36: 18.418Z",
-                    "lastUpdated": "2021-12-23T17: 05: 56.695Z"
+                    "openDate": "2021-12-23T12:36:18.418Z",
+                    "lastUpdated": "2021-12-23T17:05:56.695Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T02: 00: 00.000Z",
+                "date": "2021-12-24T02:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Charlotte Hornets @ Denver Nuggets",
@@ -699,7 +699,7 @@
                     "division": "Northwest"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 09.130Z",
+            "lastUpdated": "2021-12-23T17:14:09.130Z",
             "gameId": 267954,
             "venue": {
                 "name": "Ball Arena",
@@ -745,14 +745,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T12: 36: 18.120Z",
-                    "lastUpdated": "2021-12-23T17: 05: 56.397Z"
+                    "openDate": "2021-12-23T12:36:18.120Z",
+                    "lastUpdated": "2021-12-23T17:05:56.397Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T03: 00: 00.000Z",
+                "date": "2021-12-24T03:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Memphis Grizzlies @ Golden State Warriors",
@@ -782,7 +782,7 @@
                     "division": "Pacific"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 09.733Z",
+            "lastUpdated": "2021-12-23T17:14:09.733Z",
             "gameId": 267955,
             "venue": {
                 "name": "Chase Center",
@@ -828,14 +828,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T04: 31: 03.753Z",
-                    "lastUpdated": "2021-12-23T17: 05: 57.378Z"
+                    "openDate": "2021-12-23T04:31:03.753Z",
+                    "lastUpdated": "2021-12-23T17:05:57.378Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-24T03: 00: 00.000Z",
+                "date": "2021-12-24T03:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Brooklyn Nets @ Portland Trail Blazers",
@@ -865,7 +865,7 @@
                     "division": "Northwest"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 09.405Z",
+            "lastUpdated": "2021-12-23T17:14:09.405Z",
             "gameId": 267956,
             "venue": {
                 "name": "Moda Center",
@@ -876,7 +876,7 @@
         },
         {
             "schedule": {
-                "date": "2021-12-24T03: 30: 00.000Z",
+                "date": "2021-12-24T03:30:00.000Z",
                 "tbaTime": false
             },
             "summary": "San Antonio Spurs @ Los Angeles Lakers",
@@ -906,7 +906,7 @@
                     "division": "Pacific"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 10.121Z",
+            "lastUpdated": "2021-12-23T17:14:10.121Z",
             "gameId": 267957,
             "venue": {
                 "name": "Staples Center",
@@ -952,14 +952,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-23T12: 36: 19.424Z",
-                    "lastUpdated": "2021-12-23T17: 05: 57.694Z"
+                    "openDate": "2021-12-23T12:36:19.424Z",
+                    "lastUpdated": "2021-12-23T17:05:57.694Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-23T05: 00: 00.000Z",
+                "date": "2021-12-23T05:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Vanderbilt @ Hawaii",
@@ -987,7 +987,7 @@
                     "conference": "Big West"
                 }
             },
-            "lastUpdated": "2021-12-23T06: 54: 37.838Z",
+            "lastUpdated": "2021-12-23T06:54:37.838Z",
             "gameId": 272372,
             "venue": {
                 "name": "Stan Sheriff Center",
@@ -1033,8 +1033,8 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-22T05: 21: 37.126Z",
-                    "lastUpdated": "2021-12-23T05: 26: 42.606Z"
+                    "openDate": "2021-12-22T05:21:37.126Z",
+                    "lastUpdated": "2021-12-23T05:26 42.606Z"
                 }
             ],
             "scoreboard": {
@@ -1051,12 +1051,12 @@
                     ]
                 },
                 "currentPeriod": 2,
-                "periodTimeRemaining": "0: 00"
+                "periodTimeRemaining": "0:00"
             }
         },
         {
             "schedule": {
-                "date": "2021-12-23T18: 00: 00.000Z",
+                "date": "2021-12-23T18:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "St. Francis (NY) @ UMass Lowell",
@@ -1084,7 +1084,7 @@
                     "conference": "America East"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 24.848Z",
+            "lastUpdated": "2021-12-23T17:14:24.848Z",
             "gameId": 272282,
             "venue": {
                 "name": "Costello Athletic Center",
@@ -1095,7 +1095,7 @@
         },
         {
             "schedule": {
-                "date": "2021-12-23T19: 00: 00.000Z",
+                "date": "2021-12-23T19:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "St. Xavier @ Milwaukee",
@@ -1122,7 +1122,7 @@
                     "conference": "Horizon League"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 25.917Z",
+            "lastUpdated": "2021-12-23T17:14:25.917Z",
             "gameId": 272228,
             "venue": {
                 "name": "UW-Milwaukee Panther Arena",
@@ -1133,7 +1133,7 @@
         },
         {
             "schedule": {
-                "date": "2021-12-23T19: 00: 00.000Z",
+                "date": "2021-12-23T19:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Wagner @ Fairfield",
@@ -1161,7 +1161,7 @@
                     "conference": "Metro Atlantic"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 25.651Z",
+            "lastUpdated": "2021-12-23T17:14:25.651Z",
             "gameId": 272270,
             "venue": {
                 "name": "Webster Bank Arena",
@@ -1207,14 +1207,14 @@
                             "underOdds": -115
                         }
                     },
-                    "openDate": "2021-12-23T07: 03: 48.398Z",
-                    "lastUpdated": "2021-12-23T17: 05: 05.158Z"
+                    "openDate": "2021-12-23T07:03:48.398Z",
+                    "lastUpdated": "2021-12-23T17:05:05.158Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-23T19: 00: 00.000Z",
+                "date": "2021-12-23T19:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Howard @ Yale",
@@ -1242,7 +1242,7 @@
                     "conference": "Ivy League"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 25.177Z",
+            "lastUpdated": "2021-12-23T17:14:25.177Z",
             "gameId": 272320,
             "venue": {
                 "name": "Payne Whitney Gymnasium",
@@ -1253,7 +1253,7 @@
         },
         {
             "schedule": {
-                "date": "2021-12-23T21: 00: 00.000Z",
+                "date": "2021-12-23T21:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Coppin State @ George Mason",
@@ -1281,7 +1281,7 @@
                     "conference": "Atlantic 10"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 29.615Z",
+            "lastUpdated": "2021-12-23T17:14:29.615Z",
             "gameId": 272259,
             "venue": {
                 "name": "EagleBank Arena",
@@ -1292,7 +1292,7 @@
         },
         {
             "schedule": {
-                "date": "2021-12-23T21: 00: 00.000Z",
+                "date": "2021-12-23T21:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Westmont @ Pepperdine",
@@ -1319,7 +1319,7 @@
                     "conference": "West Coast"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 26.197Z",
+            "lastUpdated": "2021-12-23T17:14:26.197Z",
             "gameId": 272295,
             "venue": {
                 "name": "Firestone Fieldhouse",
@@ -1330,7 +1330,7 @@
         },
         {
             "schedule": {
-                "date": "2021-12-23T21: 00: 00.000Z",
+                "date": "2021-12-23T21:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Liberty vs Stanford",
@@ -1358,7 +1358,7 @@
                     "conference": "Pac 12"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 26.751Z",
+            "lastUpdated": "2021-12-23T17:14:26.751Z",
             "gameId": 278181,
             "venue": {
                 "name": "Stan Sheriff Center",
@@ -1404,14 +1404,14 @@
                             "underOdds": -115
                         }
                     },
-                    "openDate": "2021-12-23T12: 51: 25.416Z",
-                    "lastUpdated": "2021-12-23T17: 13: 08.517Z"
+                    "openDate": "2021-12-23T12:51:25.416Z",
+                    "lastUpdated": "2021-12-23T17:13:08.517Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-23T23: 00: 00.000Z",
+                "date": "2021-12-23T23:00:00.000Z",
                 "tbaTime": false
             },
             "summary": "Fresno State @ Weber State",
@@ -1439,7 +1439,7 @@
                     "conference": "Big Sky"
                 }
             },
-            "lastUpdated": "2021-12-23T17: 14: 27.063Z",
+            "lastUpdated": "2021-12-23T17:14:27.063Z",
             "gameId": 272244,
             "venue": {
                 "name": "Dee Events Center",
@@ -1485,14 +1485,14 @@
                             "underOdds": -110
                         }
                     },
-                    "openDate": "2021-12-22T18: 55: 06.509Z",
-                    "lastUpdated": "2021-12-23T17: 13: 08.864Z"
+                    "openDate": "2021-12-22T18:55:06.509Z",
+                    "lastUpdated": "2021-12-23T17:13:08.864Z"
                 }
             ]
         },
         {
             "schedule": {
-                "date": "2021-12-23T23: 30: 00.000Z",
+                "date": "2021-12-23T23:30:00.000Z",
                 "tbaTime": false
             },
             "summary": "Butler @ St. Johns", "details": {"league": "NCAAB", "seasonType": "regular", "season": 2021, "conferenceGame": true, "divisionGame": true
@@ -1513,7 +1513,7 @@
                 "conference": "Big East"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 27.307Z",
+        "lastUpdated": "2021-12-23T17:14:27.307Z",
         "gameId": 272303,
         "venue": {
             "name": "Carnesecca Arena",
@@ -1559,14 +1559,14 @@
                         "underOdds": -110
                     }
                 },
-                "openDate": "2021-12-22T19: 46: 17.107Z",
-                "lastUpdated": "2021-12-23T17: 13: 09.204Z"
+                "openDate": "2021-12-22T19:46:17.107Z",
+                "lastUpdated": "2021-12-23T17:13:09.204Z"
             }
         ]
     },
     {
         "schedule": {
-            "date": "2021-12-23T23: 30: 00.000Z",
+            "date": "2021-12-23T23:30:00.000Z",
             "tbaTime": false
         },
         "summary": "Northern Iowa vs Wyoming",
@@ -1594,7 +1594,7 @@
                 "conference": "Mountain West"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 27.563Z",
+        "lastUpdated": "2021-12-23T17:14:27.563Z",
         "gameId": 278182,
         "venue": {
             "name": "Stan Sheriff Center",
@@ -1640,14 +1640,14 @@
                         "underOdds": -110
                     }
                 },
-                "openDate": "2021-12-23T12: 51: 26.410Z",
-                "lastUpdated": "2021-12-23T17: 13: 09.578Z"
+                "openDate": "2021-12-23T12:51:26.410Z",
+                "lastUpdated": "2021-12-23T17:13:09.578Z"
             }
         ]
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 00: 00.000Z",
+            "date": "2021-12-24T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Morgan State @ Wisconsin",
@@ -1675,7 +1675,7 @@
                 "conference": "Big Ten"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 29.857Z",
+        "lastUpdated": "2021-12-23T17:14:29.857Z",
         "gameId": 272312,
         "venue": {
             "name": "Kohl Center",
@@ -1686,7 +1686,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 00: 00.000Z",
+            "date": "2021-12-24T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Alabama A&M @ Georgia Tech",
@@ -1714,7 +1714,7 @@
                 "conference": "ACC"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 27.801Z",
+        "lastUpdated": "2021-12-23T17:14:27.801Z",
         "gameId": 272336,
         "venue": {
             "name": "McCamish Pavilion",
@@ -1725,7 +1725,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 00: 00.000Z",
+            "date": "2021-12-24T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "George Mason @ Wisconsin",
@@ -1753,7 +1753,7 @@
                 "conference": "Big Ten"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 28.054Z",
+        "lastUpdated": "2021-12-23T17:14:28.054Z",
         "gameId": 278173,
         "venue": {
             "name": "Kohl Center",
@@ -1799,14 +1799,14 @@
                         "underOdds": -115
                     }
                 },
-                "openDate": "2021-12-23T12: 34: 15.059Z",
-                "lastUpdated": "2021-12-23T17: 13: 09.961Z"
+                "openDate": "2021-12-23T12:34:15.059Z",
+                "lastUpdated": "2021-12-23T17:13:09.961Z"
             }
         ]
     },
     {
         "schedule": {
-            "date": "2021-12-24T01: 30: 00.000Z",
+            "date": "2021-12-24T01:30:00.000Z",
             "tbaTime": false
         },
         "summary": "Seton Hall @ DePaul",
@@ -1834,7 +1834,7 @@
                 "conference": "Big East"
             }
         },
-        "lastUpdated": "2021-12-21T05: 51: 59.782Z",
+        "lastUpdated": "2021-12-21T05:51:59.782Z",
         "gameId": 272348,
         "venue": {
             "name": "Wintrust Arena",
@@ -1855,7 +1855,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T01: 30: 00.000Z",
+            "date": "2021-12-24T01:30:00.000Z",
             "tbaTime": false
         },
         "summary": "Central Connecticut @ Rutgers",
@@ -1883,7 +1883,7 @@
                 "conference": "Big Ten"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 28.297Z",
+        "lastUpdated": "2021-12-23T17:14:28.297Z",
         "gameId": 272366,
         "venue": {
             "name": "Louis Brown Athletic Center",
@@ -1894,7 +1894,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T03: 00: 00.000Z",
+            "date": "2021-12-24T03:00:00.000Z",
             "tbaTime": false
         },
         "summary": "BYU @ Vanderbilt",
@@ -1922,7 +1922,7 @@
                 "conference": "SEC"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 28.825Z",
+        "lastUpdated": "2021-12-23T17:14:28.825Z",
         "gameId": 278183,
         "venue": {
             "name": "Stan Sheriff Center",
@@ -1968,14 +1968,14 @@
                         "underOdds": -115
                     }
                 },
-                "openDate": "2021-12-23T15: 07: 16.067Z",
-                "lastUpdated": "2021-12-23T17: 05: 07.311Z"
+                "openDate": "2021-12-23T15:07:16.067Z",
+                "lastUpdated": "2021-12-23T17:05:07.311Z"
             }
         ]
     },
     {
         "schedule": {
-            "date": "2021-12-23T20: 30: 00.000Z",
+            "date": "2021-12-23T20:30:00.000Z",
             "tbaTime": false
         },
         "summary": "North Texas vs Miami (OH)",
@@ -2005,7 +2005,7 @@
                 "division": "East"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 39.124Z",
+        "lastUpdated": "2021-12-23T17:4:39.124Z",
         "gameId": 276957,
         "venue": {
             "name": "Toyota Stadium",
@@ -2058,7 +2058,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 00: 00.000Z",
+            "date": "2021-12-24T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "UCF vs Florida",
@@ -2088,7 +2088,7 @@
                 "division": "East"
             }
         },
-        "lastUpdated": "2021-12-23T17: 14: 39.400Z",
+        "lastUpdated": "2021-12-23T17:14:39.400Z",
         "gameId": 276958,
         "venue": {
             "name": "Raymond James Stadium",
@@ -2141,7 +2141,7 @@
     },
     {
         "schedule": {
-            "date": "2022-02-28T01: 20: 00.000Z",
+            "date": "2022-02-28T01:20:00.000Z",
             "tbaTime": false
         },
         "summary": "San Francisco 49ers @ Tennessee Titans",
@@ -2224,7 +2224,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-23T19: 00: 00.000Z",
+            "date": "2021-12-23T19:00:00.000Z",
             "tbaTime": false
         },
         "summary": "St. Louis Blues @ Toronto Maple Leafs",
@@ -2265,7 +2265,7 @@
     },
     {
         "schedule": {
-            "date": "2022-03-03T00: 00: 00.000Z",
+            "date": "2022-03-03T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Colorado Avalanche @ Boston Bruins",
@@ -2306,7 +2306,7 @@
     },
     {
         "schedule": {
-            "date": "2022-03-10T00: 00: 00.000Z",
+            "date": "2022-03-10T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Carolina Hurricanes @ Ottawa Senators",
@@ -2336,7 +2336,7 @@
                 "division": "Atlantic"
             }
         },
-        "lastUpdated": "2021-12-23T15: 14: 59.060Z",
+        "lastUpdated": "2021-12-23T15:14:59.060Z",
         "gameId": 277189,
         "venue": {
             "name": "Canadian Tire Centre",
@@ -2347,7 +2347,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 00: 00.000Z",
+            "date": "2021-12-24T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Nashville Predators vs Florida Panthers",
@@ -2377,7 +2377,7 @@
                 "division": "Atlantic"
             }
         },
-        "lastUpdated": "2021-12-23T15: 14: 59.353Z",
+        "lastUpdated": "2021-12-23T15:14:59.353Z",
         "gameId": 277191,
         "venue": {
             "name": "FLA Live Arena",
@@ -2388,7 +2388,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 00: 00.000Z",
+            "date": "2021-12-24T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Montreal Canadiens @ New Jersey Devils",
@@ -2418,7 +2418,7 @@
                 "division": "Metropolitan"
             }
         },
-        "lastUpdated": "2021-12-23T15: 14: 59.610Z",
+        "lastUpdated": "2021-12-23T15:14:59.610Z",
         "gameId": 277193,
         "venue": {
             "name": "Prudential Center",
@@ -2429,7 +2429,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 00: 00.000Z",
+            "date": "2021-12-24T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Philadelphia Flyers @ Pittsburgh Penguins",
@@ -2470,7 +2470,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 00: 00.000Z",
+            "date": "2021-12-24T00:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Buffalo Sabres @ Columbus Blue Jackets",
@@ -2511,7 +2511,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T00: 30: 00.000Z",
+            "date": "2021-12-24T00:30:00.000Z",
             "tbaTime": false
         },
         "summary": "Washington Capitals vs New York Islanders",
@@ -2552,7 +2552,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T01: 00: 00.000Z",
+            "date": "2021-12-24T01:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Detroit Red Wings @ Minnesota Wild",
@@ -2593,7 +2593,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T01: 30: 00.000Z",
+            "date": "2021-12-24T01:30:00.000Z",
             "tbaTime": false
         },
         "summary": "Dallas Stars @ Chicago Blackhawks",
@@ -2623,7 +2623,7 @@
                 "division": "Central"
             }
         },
-        "lastUpdated": "2021-12-23T15: 15: 00.977Z",
+        "lastUpdated": "2021-12-23T15:15:00.977Z",
         "gameId": 277208,
         "venue": {
             "name": "United Center",
@@ -2634,7 +2634,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T02: 00: 00.000Z",
+            "date": "2021-12-24T02:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Seattle Kraken @ Calgary Flames",
@@ -2664,7 +2664,7 @@
                 "division": "Pacific"
             }
         },
-        "lastUpdated": "2021-12-23T15: 15: 01.241Z",
+        "lastUpdated": "2021-12-23T15:15:01.241Z",
         "gameId": 277211,
         "venue": {
             "name": "Scotiabank Saddledome",
@@ -2675,7 +2675,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T02: 00: 00.000Z",
+            "date": "2021-12-24T02:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Tampa Bay Lightning @ Arizona Coyotes",
@@ -2705,7 +2705,7 @@
                 "division": "Pacific"
             }
         },
-        "lastUpdated": "2021-12-23T15: 15: 01.581Z",
+        "lastUpdated": "2021-12-23T15:15:01.581Z",
         "gameId": 277215,
         "venue": {
             "name": "Gila River Arena",
@@ -2716,7 +2716,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T03: 00: 00.000Z",
+            "date": "2021-12-24T03:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Anaheim Ducks @ Vancouver Canucks",
@@ -2746,7 +2746,7 @@
                 "division": "Pacific"
             }
         },
-        "lastUpdated": "2021-12-23T15: 15: 01.963Z",
+        "lastUpdated": "2021-12-23T15:15:01.963Z",
         "gameId": 277217,
         "venue": {
             "name": "Rogers Arena",
@@ -2757,7 +2757,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T03: 00: 00.000Z",
+            "date": "2021-12-24T03:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Los Angeles Kings @ Vegas Golden Knights",
@@ -2798,7 +2798,7 @@
     },
     {
         "schedule": {
-            "date": "2021-12-24T03: 00: 00.000Z",
+            "date": "2021-12-24T03:00:00.000Z",
             "tbaTime": false
         },
         "summary": "Edmonton Oilers @ San Jose Sharks",
@@ -2828,7 +2828,7 @@
                 "division": "Pacific"
             }
         },
-        "lastUpdated": "2021-12-23T15: 15: 02.642Z",
+        "lastUpdated": "2021-12-23T15:15:02.642Z",
         "gameId": 277222,
         "venue": {
             "name": "SAP Center",

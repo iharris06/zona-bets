@@ -2,6 +2,8 @@ import discord
 import os
 import requests
 import json
+from awsClient import *
+
 from datetime import datetime, timedelta
  
 client = discord.Client()
@@ -9,6 +11,7 @@ client = discord.Client()
 # dev - does not make api calls
 # prod - makes api calls
 mode = "dev"
+games = []
 
 #Valid League list
 leagues = ["NFL", "NBA", "NHL","MLB", "NCAAF", "NCAAB"]
@@ -55,7 +58,7 @@ def filter_by_date(obj):
 
   for key in input_dict:
     #Extract date for comparison
-    game_date_time = datetime.strptime(key['schedule']['date'],'%Y-%m-%dT%H: %M: %S.%f%z')
+    game_date_time = datetime.strptime(key['schedule']['date'],'%Y-%m-%dT%H:%M:%S.%f%z')
     
   #Add games within the next 14 days to the output list
     if valid_date(game_date_time):
@@ -91,7 +94,7 @@ def get_games(league):
   if(mode == 'dev'):
     # Get data from file
     f = open('results.json')
-    results = json.load(f)
+    json_data = json.load(f)
 
     f.close()
   else:
@@ -103,18 +106,19 @@ def get_games(league):
     if(json_data['status'] == 200):
       print("Request was successful")
 
-  return filter_by_league(results,league)
+  return filter_by_league(json_data,league)
 
   # else:
       # print("Request failed with status: " + json_data.status)
 
 # Build formatted game list string
 def str_game_list(games):
-  game_str = "**Choose a game by it's number (EX: $game 1)**"
+  game_str = "**Choose a game by it's number (EX: $item 1)**"
   index = 1
   #Add each game lead by index+1
   for games in games:
     game_str += "\n" + str(index) + ": " + games["summary"]
+    index+=1
 
   return game_str
 
@@ -129,18 +133,14 @@ async def on_ready():
 async def on_message(message):
   if message.author == client.user:
     return
-
-  if message.content.startswith('$game'):
-    index = message.content
-    await message.channel.send("Ok, lets do " + index)
-
+    
   if message.content.startswith('$games'):
     league = get_league(message.content)
-      
+    global games
     games = json.loads(get_games(league))
 
     # Check for empty Games object
-    if(not bool(games)):
+    if not games:
       print("No games match")
       await message.channel.send("Sorry, no upcoming games match your input. Make sure to mention the League! Valid options are `" + str(leagues) + "`."
       + "\n" + "\n"
@@ -152,4 +152,26 @@ async def on_message(message):
       # Select a game
       await message.channel.send(str_game_list(games))
 
+  if message.content.startswith('$item'):
+    if not games:
+      await message.channel.send("Whoops! Please query valid games before making a selection by typing $games <league>. **EX: $games nba**")
+    else:
+      index = int(message.content[5:].strip())
+      game = games[index-1]
+      await message.channel.send("Ok, lets bet on:\n**" + game['summary'] + "**")
+    #get game by id game['gameId']
+    #if it doesn't exist, create the game
+    #get game
+
+    #if result is null insert game
+
+    await message.channel.send("Place bets by typing `$bet <amount>`. EX: `$bet 25`")
+
+  if message.content.startswith('$bet'):
+    bet = int(message.content[4:].strip())
+    await message.channel.send(f'{message.author} just bet {bet} ZonaBucks!')
+
+    match = test_get()
+    await message.channel.send(f'{match}')
+      
 client.run(os.getenv('TOKEN'))
